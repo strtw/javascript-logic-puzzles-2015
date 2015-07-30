@@ -1,6 +1,6 @@
 'use strict';
 
-function dashNumbers(n){
+function dashNumbers(numString){
     var i;
     var numStringArray = numString.split("");
     for (i=0; i<numStringArray.length; i++){
